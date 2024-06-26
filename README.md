@@ -40,12 +40,12 @@ These instructions will help you set up the project on your local machine for de
 
 ### API Endpoints
 
-- **Authentication:** `/api/auth/`
+- **Authentication:**
   - Sign up, log in, log out
-- **Posts:** `/api/posts/`
+- **Posts:** 
   - List, create, retrieve, update, delete posts
-- **Comments:** `/api/comments/`
+- **Comments:** 
   - List, create, retrieve, update, delete comments
-- **Likes:** `/api/likes/`
+- **Likes:** 
   - Like and unlike posts
 
