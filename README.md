@@ -33,11 +33,10 @@ These instructions will help you set up the project on your local machine for de
 - **Static Files:** Static files (CSS, JavaScript) are managed with Django's static files app.
 
 ### Project Structure
-
-- `blognetwork/`: Project settings and URLs
-- `users/`: User authentication and profile management
-- `posts/`: Blog posts and Twitter-style updates
-- `comments/`: Comment functionality for posts
+- blognetwork/: Project settings and URLs
+- users/: User authentication and profile management
+- media/: Blog posts and other media
+- comments/: Comment functionality for posts
 
 ### API Endpoints
 
